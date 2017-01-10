@@ -1,2 +1,2 @@
 # GaitProject
-Application for Unity Gait Analysis project
+Application for Gait Analysis project using Unity
